@@ -1,6 +1,6 @@
 # Power_BI_financial_analysis
 
-Учебный проект.
+Учебный проект по Power BI и финансовой аналитике.
 
 Финансовые отчет в Power BI.
 
