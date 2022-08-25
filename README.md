@@ -1,4 +1,4 @@
-# Power_BI_ads
+# Power_BI_financial_analysis
 
 Финансовые отчет в Power BI.
 
