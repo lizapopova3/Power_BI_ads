@@ -1,5 +1,7 @@
 # Power_BI_financial_analysis
 
+Учебный проект.
+
 Финансовые отчет в Power BI.
 
 Цель отчета:
